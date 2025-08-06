@@ -1,21 +1,12 @@
 MIT License
 
-Copyright (c) 2025 Nagham
+## Authors & Context
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository was developed by **Nagham Alshabrawi** , **Sarah Alhalees** , **Feryal Jadallah** , **Bayan Barmeem** , ** 
+Raya Abu Aljamal** and **Fatimah Alsinan**  
+as part of the Machine Learning course (Machine Learning - CCAI323) at the University of Jeddah.  
+If you use or build on this work, please cite it:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Alshabrawi, N., Alhalees, S., Jadallah, F., Barmeem, B., Abu Aljamal, R., & Alsinan, F. (2025). Detection of Anemia using Color of the 
+Fingernails [ML-CCAI323 course project]. University of Jeddah.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
