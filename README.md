@@ -26,7 +26,7 @@ Our study investigates non-invasive anemia detection through fingernail image an
 
 ## Datasets
 
-* **Pediatric dataset:** 4,260 clinically labeled fingernail images of children, balanced and preprocessed.
+* **young dataset:** 4,260 clinically labeled fingernail images of children, balanced and preprocessed.
 * **Adult dataset:** 750 unlabeled RGB hand images (18–95 years), with bounding-box metadata and pseudo-labels from clustering.
 
 ## Project Structure
