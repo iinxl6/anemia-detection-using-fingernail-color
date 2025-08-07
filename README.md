@@ -26,8 +26,15 @@ Our study investigates non-invasive anemia detection through fingernail image an
 
 ## Datasets
 
-* **young dataset:** 4,260 clinically labeled fingernail images of children, balanced and preprocessed.
-* **Adult dataset:** 750 unlabeled RGB hand images (18–95 years), with bounding-box metadata and pseudo-labels from clustering.
+- **Pediatric fingernail images**  
+  Source: [Mendeley Data – Fingernails](https://data.mendeley.com/datasets/2xx4j3kjg2/1)  
+  Cite as: “Asare, Justice Williams; APPIAHENE, PETER; DONKOH, EMMANUEL (2022), “Detection of Anemia using Colour of the Fingernails Image Datasets from Ghana”, Mendeley Data, V1, doi: 10.17632/2xx4j3kjg2.1”
+
+- **Adult fingernail images (preprocessed)**  
+  Source: [GitHub – TasBakker/Anemia-Detection: `dataset_fingernails`](https://github.com/TasBakker/Anemia-Detection/tree/main/dataset_fingernails)  
+  Cite as:  
+  > TasBakker (2024), *Anemia-Detection: dataset_fingernails* [GitHub repository], https://github.com/TasBakker/Anemia-Detection/tree/main/dataset_fingernails (accessed August 6, 2025).  
+  > Original dataset by Yakimov, B.; Buiankin, K.; Denisenko, G.; Bardadin, I.; Shitova, Y.; Shirshin, E. (2024), “Dataset of human skin and fingernails images for non-invasive haemoglobin level assessment”, figshare. Collection. https://doi.org/10.6084/m9.figshare.c.6760179
 
 ## Project Structure
 
