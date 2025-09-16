@@ -27,7 +27,8 @@ Our study investigates non-invasive anemia detection through fingernail image an
 
 - **Children fingernail images**  
   Source: [Mendeley Data – Fingernails](https://data.mendeley.com/datasets/2xx4j3kjg2/1)  
-  Cite as: “Asare, Justice Williams; APPIAHENE, PETER; DONKOH, EMMANUEL (2022), “Detection of Anemia using Colour of the Fingernails Image Datasets from Ghana”, Mendeley Data, V1, doi: 10.17632/2xx4j3kjg2.1”
+  Cite as:
+  > “Asare, Justice Williams; APPIAHENE, PETER; DONKOH, EMMANUEL (2022), “Detection of Anemia using Colour of the Fingernails Image Datasets from Ghana”, Mendeley Data, V1, doi: 10.17632/2xx4j3kjg2.1”
 
 - **Adult fingernail images (preprocessed)**  
   Source: [GitHub – TasBakker/Anemia-Detection: `dataset_fingernails`](https://github.com/TasBakker/Anemia-Detection/tree/main/dataset_fingernails)  
